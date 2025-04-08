@@ -9,7 +9,7 @@
             --primary: #6c5ce7;
             --secondary: #a29bfe;
             --accent: #fd79a8;
-            --light: #f8f9fa;
+            --light: #f8
             --dark: #343a40;
             --success: #00b894;
             --warning: #fdcb6e;
